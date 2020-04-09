@@ -1,0 +1,12 @@
+Origin: aReo
+Label: aReo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: aReo's tweak
+
+SHA256:
+ 3c71b1b61aea4eb2429329011d6c12e7aac466d0d92902450327667b8118450e 1282 Packages.bz2
+ b48f28aafef8dab0b2e009b04ded9b8e3619399a74fcc5c591fa713bbb349cf1 1104 Packages.xz
