@@ -7,13 +7,13 @@
     <link rel="stylesheet" type="text/css" href="../../web/index.css">
     <style>a, .tint, .table-btn:after {color: } .active {color: ;border-bottom: 2px solid ;}</style>
     <script src="../../web/index.js"></script>
-    <meta name="description" content="A package by aReo for iOS 12.0 ~ 13.6.">
+    <meta name="description" content="A package by aReo for iOS 12.0 ~ 14.7.">
     <meta property="og:title" content="AppProtect">
-    <meta property="og:description" content="A package by aReo for iOS 12.0 ~ 13.6.">
+    <meta property="og:description" content="A package by aReo for iOS 12.0 ~ 14.7.">
     <meta property="og:image" content="../../assets/com.flex2areo.appprotect/banner.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="AppProtect">
-    <meta name="twitter:description" content="A package by aReo for iOS 12.0 ~ 13.6.">
+    <meta name="twitter:description" content="A package by aReo for iOS 12.0 ~ 14.7.">
     <meta name="twitter:image" content="https://flex2areo.github.io/assets/com.flex2areo.appprotect/banner.png">
     <meta name="theme-color" content="">
 </head>
@@ -28,92 +28,44 @@
             </div>
         </div>
         <div class="nav">
-            <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">插件详情</div>
-            <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">更新日志</div>
+            <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Details</div>
+            <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Changelog</div>
         </div>
         <div class="tweak_info">
+            <p class="compatibility"><b>Compatibility:</b> This package is compatible with iOS iOS 12.0 ~ 14.7.</p>
             
             <div class="md_view">
                 <p>App 隐私保护</p>
             </div>
-			<h3> </h3>
+            <h3>Information</h3>
             <div class="table">
                 <div class="cell">
-                    <div class="title">作者</div>
+                    <div class="title">Developer</div>
                     <div class="text">aReo</div>
                     <br><br>
                 </div>
                 <div class="cell">
-                    <div class="title">版本</div>
-                    <div class="text">1.3.1-1</div>
+                    <div class="title">Version</div>
+                    <div class="text">1.3.1-2</div>
                     <br><br>
                 </div>
                 <div class="cell">
-                    <div class="title">兼容</div>
+                    <div class="title">Compatibility</div>
                     <div class="text">iOS 12.0 ~ 14.7</div>
                     <br><br>
                 </div>
                 <div class="cell">
-                    <div class="title">分类</div>
+                    <div class="title">Section</div>
                     <div class="text">Tweaks</div>
                     <br><br>
                 </div>
             </div>
         </div>
         <div class="changelog">
-			1.3.1-1 更新内容：<br>
-		    1.修复功能失效问题;<br>
-			2.新增和优化重启验证功能。<br>
-           （测试版。重启非越狱状态下无法打开加密 App, 需手动给 /var/containers/Bundle/ 目录添加写入权限方可生效。）<br><br>
-			1.3.0 更新内容：<br>
-		    1.适配 IOS14 系统；<br>
-			2.新增自定义验证弹窗内容；<br>
-			3.修复其它已知 bug 。<br><br>
-			1.2.5 更新内容：<br>
-		    1.修复静默验证可能失效的问题；<br>
-			2.修复其它已知 bug 。<br><br>
-			1.2.4 更新内容：<br>
-		    1.修复之前版本失效问题；<br>
-			2.设置列表新增进入用户界面设置。<br><br>
-			1.2.3 更新内容：<br>
-		    1.新增启动验证、卸载验证、wifi验证、设置验证分开关（请注意开启）；<br>
-			2.修复已知 Bug。<br><br>
-			1.2.2 更新内容：<br>
-		    1.新增应用商店下载、更新验证；<br>
-			2.新增卸载应用验证。<br><br>
-			1.2.1 更新内容：<br>
-		    1.修复辅助触控截图不验证问题；<br>
-			2.修复 IOS12 上的安全模式。<br><br>
-		    1.2.0 更新内容：<br>
-		    1.新增锁屏清理后台和锁屏清理通知白名单；<br>
-			2.新增 FaceID/TouchID 验证失败重试功能；<br>
-			3.去除 Applist 依赖，解决某些开关自动变更问题；<br>
-			4.修复辅助触控截图不验证的问题。<br><br>
-			1.1.8 更新内容：<br>
-		    1.新增自动删除通话和短信记录功能，保护通话隐私不留痕迹，也可用于过滤垃圾短信；<br>
-			2.修部分机型siri无法唤起问题。<br><br>
-			1.1.7 更新内容：<br>
-		    1.更换控制中心模块图标（感谢 Zealson 提供素材）；<br>
-			2.隐藏设置中新增“伪装商店应用”功能，开启后 App 将显示为未下载状态；<br>
-			3.修复隐藏设置变更后偶尔不能立即生效的问题。<br><br>
-		    1.1.6-2 更新内容：<br>
-		    1.新增控制中心开关模块；<br><br>
-			1.1.5 更新内容：<br>
-		    修复版本到期失效问题。<br><br>
-		    1.1.4 更新内容：<br>
-		    1.新增相机进入相册的验证（需先设置自定义密码）；<br>
-			2.修复可能出现的无法打开加密app的bug；<br>
-			3.修复设置功能后可能出现的复原问题。<br><br>
-		    1.1.3 更新内容：<br>
-		    1.新增设置列表支持，可加密设置里的系统和插件入口。<br><br>
-			1.1.2 更新内容：<br>
-            1.新增 3DTouch 菜单功能和文件夹支持，可快速加密解密应用程序和文件夹；
-			（12系统注销后，文件夹加密需重新设置）<br>
-			2.新增受信任 Wifi 功能，连接到受信任网络时无需验证；<br>
-			3.优化代码，更稳定。
+            暂无更新日志
         </div>
         <div class="caption center footer"> </div>
     </div>
 </body>
-<script>compatible("12.0","13.6","iOS 12.0 ~ 13.6");externalize()</script>
+<script>compatible("12.0","14.7","iOS 12.0 ~ 14.7");externalize()</script>
 </html>
