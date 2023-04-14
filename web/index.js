@@ -4,13 +4,13 @@ function compatible(works_min, works_max, tweak_compatibility) {
     works_max = numerize(works_max);
     let el = document.querySelector(".compatibility");
     if (currentiOS < works_min) {
-        el.innerHTML = "此插件不兼容您的系统";
+        el.innerHTML = "Your version of iOS is too old for this package. This package works on " + tweak_compatibility + ".";
         el.classList.add("red")
     } else if(currentiOS > works_max) {
-        el.innerHTML = "此插件不兼容您的系统";
+        el.innerHTML = "Your version of iOS is too new for this package. This package works on " + tweak_compatibility + ".";
         el.classList.add("red")
     } else if(String(currentiOS) != "NaN") {
-        el.innerHTML = "此插件兼容您的系统";
+        el.innerHTML = "This package works on your device!";
         el.classList.add("green")
     }
 }
@@ -42,5 +42,5 @@ function darkMode(isOled) {
     }
 }
 if (navigator.userAgent.toLowerCase().indexOf("dark") != -1) {
-    darkMode(navigator.userAgent.toLowerCase().indexOf("oled") != -1);
+    darkMode(navigator.userAgent.toLowerCase().indexOf("oled") != -1 || navigator.userAgent.toLowerCase().indexOf("pure-black") != -1);
 }
