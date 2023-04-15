@@ -5,8 +5,8 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: A repo for AppTools & App﻿pProtect..
+Description: A repo just for fun...
 
 SHA256:
- ebd956a447c29dfefc31c74e022f8c28ce4bc00c0cea371198823b934dae3a58 1744 Packages.bz2
- e61302afe9300cd82839f8954972a57efadf86bbf3525a9403fcd7a58ce079c6 1512 Packages.xz
+ 7b4af8d7d63bfc03de1bc16b43150bc345497126c10ccec6f2cf3d7b14df3a84 1744 Packages.bz2
+ 65718fdac4d59c332d6815331882132aefc8adc8d8f3fa4a1e83831bf85fdde3 1520 Packages.xz
