@@ -3,10 +3,10 @@ Label: aReo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
 Description: aReo's tweak
 
 SHA256:
- 2cf5653a260fb3b2a4ab4d31c9fb8ae04d1ae6816103a16960c701e017d237e9 1704 Packages.bz2
- e8d04227fdaf95a5bf66e78e53829ba8c7fd59239369bc220a7b23ff5cebdd79 1488 Packages.xz
+ ee1a61de70b6cdda7fbfcb7c2ad407dca5def7fa6b4ef9a9446574f558cd3b01 1677 Packages.bz2
+ 1b52812531ee26a6fd4f4aad326ea98611437f4c93711e92d60abd2d13979363 1460 Packages.xz
