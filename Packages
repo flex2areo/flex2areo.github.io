@@ -1,0 +1,160 @@
+Package: com.flex2areo.appprotect
+Version: 1.7.7
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=12.0), mobilesubstrate,preferenceloader
+Filename: root/com.flex2areo.appprotect.deb
+Size: 454526
+MD5sum: 9f19e857d565aafcaf2eb50b3dc99d45
+SHA1: d8e328862d4309c706cd28c642222126736a4a5c
+SHA256: 66af89c679936ef8dbc9dafc09bda7e2fbb2efba8d2e21fe8065b94b56896ae9
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: App 隐私保护
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.appprotect.html
+Icon: https://flex2areo.github.io/assets/com.flex2areo.appprotect/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.appprotect.json
+Name: AppProtect
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.appprotect.json
+
+Package: com.flex2areo.apptools
+Version: 2.4.4
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: root/com.flex2areo.apptools.deb
+Size: 954394
+MD5sum: 921856db54ec5f52a221b015e7770c1d
+SHA1: 4a7abdd6600f23ef3b87944b6725903f40fd1588
+SHA256: ac7413e4173c0bfc2384177b795304b1cccbecf292533bcccbdeb1362d71ea2a
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: An icon tool.
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools.html
+Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools.json
+Name: AppTools
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools.json
+
+Package: com.flex2areo.apptools13
+Version: 2.8.7
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: root/com.flex2areo.apptools13.deb
+Size: 383720
+MD5sum: 7d4d0a24ceab0b5615e133e0fbfd492b
+SHA1: 3f59689a7a67b2d4938fa9417f7d8ec12f8ae9b6
+SHA256: 42cd97a13e333bfffada18ca9d0da4fef16a4dcaea41809492934b8cfc9162b1
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: An icon tool.
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools13.html
+Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools13/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools13.json
+Name: AppTools for iOS13
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools13.json
+
+Package: com.flex2areo.apptools14
+Version: 1.9.3
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: root/com.flex2areo.apptools14.deb
+Size: 512928
+MD5sum: c4f75e80933fa510ebc73e8c351614fe
+SHA1: 316a68b765d8fbf577e3b5ef7b8308a454c3c260
+SHA256: 72d3e1aa29f3196bbf1b92aace12752ad3191a946b2984635a85a4a45251951c
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: An icon tool.
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools14.html
+Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools14/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools14.json
+Name: AppTools for iOS14
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools14.json
+
+Package: com.flex2areo.apptools15
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: root/com.flex2areo.apptools15.deb
+Size: 522628
+MD5sum: fbd77c6d12b1a0d1b83a928374d49a3f
+SHA1: 1a884098394007a3f5e87833964d209dd137a4e7
+SHA256: 4c3ae092713560fa37b55a84e34d5ed7ec90d92dfb8ce998b2636e0a7703ed0b
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: AppTools for iOS15
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools15.html
+Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools15/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools15.json
+Name: AppTools for iOS15
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools15.json
+
+Package: com.yourcompany.wctaptotop
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=11.0), mobilesubstrate
+Filename: root/com.yourcompany.wctaptotop.deb
+Size: 20818
+MD5sum: 320c14cfb08ca9b57d4105b9b091b64d
+SHA1: 0f2e33fcfd044d37563e596cf201a7027c14a3ae
+SHA256: 0482949ea04c05e561362faafe50023dc9b445224f2d86db3ed5508ca59e5058
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: 点击朋友圈底部快速刷新朋友圈
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.yourcompany.wctaptotop.html
+Icon: https://flex2areo.github.io/assets/com.yourcompany.wctaptotop/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.yourcompany.wctaptotop.json
+Name: WCTapToTop
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.yourcompany.wctaptotop.json
+
+Package: com.flex2areo.appprotectrootless
+Version: 1.7.8
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=15.0), mobilesubstrate,preferenceloader
+Filename: rootless/com.flex2areo.appprotectrootless.deb
+Size: 256580
+MD5sum: aed6c3fd8fc507d1d9d98b8cccfcad53
+SHA1: f6d772bcf1c609feeedc71667f6b911de99c20f4
+SHA256: 5b5467df7ca883649a9c0171515c9c3802de69537008681e045ec32d6832fe8c
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: App 隐私保护
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.appprotectrootless.html
+Icon: https://flex2areo.github.io/assets/com.flex2areo.appprotectrootless/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.appprotectrootless.json
+Name: AppProtect(Rootless)
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.appprotectrootless.json
+
+Package: com.flex2areo.apptools15rootless
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: aReo < >
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: rootless/com.flex2areo.apptools15rootless.deb
+Size: 265660
+MD5sum: 17988b55e8df46d314a8bcc472d80a3a
+SHA1: 20c14b7380272d7b4cccb6b9195c7bee96afca96
+SHA256: 2ceedb56e6c567989f1571a64274881b281b5b2f539fd475e6b7c26027f9260a
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: AppTools for iOS15 Rootless
+Author: aReo < >
+Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools15rootless.html
+Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools15rootless/icon.png
+Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools15rootless.json
+Name: AppTools15(Rootless)
+Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools15rootless.json
+
