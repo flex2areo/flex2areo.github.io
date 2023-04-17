@@ -1,22 +1,18 @@
 Package: com.flex2areo.appprotect
-Version: 1.7.7
+Version: 1.7.8
 Architecture: iphoneos-arm
-Maintainer: aReo < >
-Depends: firmware (>=12.0), mobilesubstrate,preferenceloader
-Filename: root/com.flex2areo.appprotect.deb
-Size: 454526
-MD5sum: 9f19e857d565aafcaf2eb50b3dc99d45
-SHA1: d8e328862d4309c706cd28c642222126736a4a5c
-SHA256: 66af89c679936ef8dbc9dafc09bda7e2fbb2efba8d2e21fe8065b94b56896ae9
+Maintainer: aReo
+Installed-Size: 1556
+Depends: mobilesubstrate,preferenceloader
+Filename: root/com.flex2areo.appprotect_1.7.8_iphoneos-arm.deb
+Size: 330296
+MD5sum: ee1926e843b71f88ade06d5d579a6de1
+SHA1: 650ef013b6948bd75976fff5c61e79147dbf7a6a
+SHA256: 8d440050c69ac03c0dcfacdfe8b7404336c9de6eac613f332d84d02560d30a3e
 Section: Tweaks
-Homepage: https://shuga.co/
 Description: App 隐私保护
-Author: aReo < >
-Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.appprotect.html
-Icon: https://flex2areo.github.io/assets/com.flex2areo.appprotect/icon.png
-Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.appprotect.json
+Author: aReo
 Name: AppProtect
-Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.appprotect.json
 
 Package: com.flex2areo.apptools
 Version: 2.4.4
@@ -118,21 +114,21 @@ Moderndepiction: https://flex2areo.github.io/depiction/native/com.yourcompany.wc
 Name: WCTapToTop
 Sileodepiction: https://flex2areo.github.io/depiction/native/com.yourcompany.wctaptotop.json
 
-Package: com.flex2areo.appprotect
+Package: com.flex2areo.appprotectrootless
 Version: 1.7.8
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 1044
+Installed-Size: 1060
 Depends: mobilesubstrate,preferenceloader
-Filename: rootless/com.flex2areo.appprotect_1.7.8_beta1_Rootless.deb
-Size: 165770
-MD5sum: 82c43e3b95ab22aeec9e350a095239dc
-SHA1: f98e2fb7050fb03d35c18739c25538959bff4d5d
-SHA256: c9b428a39947c457a62d72c8fda7f0aef55dd2216c0c78c4e2d3f51e514bab74
+Filename: rootless/com.flex2areo.appprotectrootless_1.7.8_Rootless.deb
+Size: 166668
+MD5sum: 5705e205273f4ce23295be9b663a4d41
+SHA1: 8d61aa384aaa1cc50509c79dc203f8fd6653c8c6
+SHA256: 8b1ccba80030c5929e4d1e69c40c8d0525956a5d5e6a41f2c27ff40f834af795
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
-Name: AppProtect
+Name: AppProtect(Rootless)
 
 Package: com.flex2areo.apptools15rootless
 Version: 1.1.6
