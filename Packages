@@ -1,14 +1,14 @@
 Package: com.flex2areo.appprotect
-Version: 1.7.8
+Version: 1.7.9
 Architecture: iphoneos-arm
 Maintainer: aReo
 Installed-Size: 1556
 Depends: mobilesubstrate,preferenceloader
-Filename: root/com.flex2areo.appprotect_1.7.8_iphoneos-arm.deb
-Size: 330296
-MD5sum: ee1926e843b71f88ade06d5d579a6de1
-SHA1: 650ef013b6948bd75976fff5c61e79147dbf7a6a
-SHA256: 8d440050c69ac03c0dcfacdfe8b7404336c9de6eac613f332d84d02560d30a3e
+Filename: root/com.flex2areo.appprotect_1.7.9_iphoneos-arm.deb
+Size: 334668
+MD5sum: 0d3d805e77453c3039d6da4454694bfe
+SHA1: 690854df0cbff920f107819e2ccac26a3fe20d5e
+SHA256: 6e89879cdfbcafbf513495c315f2ee3583ccf3b9dd2b552f5244d247cbe0fe02
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -115,16 +115,16 @@ Name: WCTapToTop
 Sileodepiction: https://flex2areo.github.io/depiction/native/com.yourcompany.wctaptotop.json
 
 Package: com.flex2areo.appprotectrootless
-Version: 1.7.8
+Version: 1.7.9
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 1060
+Installed-Size: 1044
 Depends: mobilesubstrate,preferenceloader
-Filename: rootless/com.flex2areo.appprotectrootless_1.7.8_Rootless.deb
-Size: 166668
-MD5sum: 5705e205273f4ce23295be9b663a4d41
-SHA1: 8d61aa384aaa1cc50509c79dc203f8fd6653c8c6
-SHA256: 8b1ccba80030c5929e4d1e69c40c8d0525956a5d5e6a41f2c27ff40f834af795
+Filename: rootless/com.flex2areo.appprotectrootless_1.7.9_R﻿ootless.deb
+Size: 166224
+MD5sum: 114bdd70e6b6b7298e88ae8e613771f2
+SHA1: b2009516ed5794b5fac44f2774a58859762db662
+SHA256: ead6e73dd1fa159bae11572b28078795f38f8f71da3d9d8734cb779e5aa95713
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
