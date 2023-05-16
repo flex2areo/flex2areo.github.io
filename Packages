@@ -75,24 +75,20 @@ Name: AppTools for iOS14
 Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools14.json
 
 Package: com.flex2areo.apptools15
-Version: 1.1.6
+Version: 1.1.8
 Architecture: iphoneos-arm
-Maintainer: aReo < >
-Depends: firmware (>=15.0), mobilesubstrate
-Filename: root/com.flex2areo.apptools15.deb
-Size: 522628
-MD5sum: fbd77c6d12b1a0d1b83a928374d49a3f
-SHA1: 1a884098394007a3f5e87833964d209dd137a4e7
-SHA256: 4c3ae092713560fa37b55a84e34d5ed7ec90d92dfb8ce998b2636e0a7703ed0b
+Maintainer: aReo
+Installed-Size: 1564
+Depends: mobilesubstrate
+Filename: root/com.flex2areo.apptools15_1.1.8.deb
+Size: 371064
+MD5sum: 69f608097bb166138f1cc7af2ae543b8
+SHA1: b6b994522008c412380554c15feeb08771d64ec0
+SHA256: 93ea78a52356cee67c3a8c1addd8d9f41cc01f2c4b38d5af9e38ec7a4c9dfceb
 Section: Tweaks
-Homepage: https://shuga.co/
 Description: AppTools for iOS15
-Author: aReo < >
-Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools15.html
-Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools15/icon.png
-Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools15.json
+Author: aReo
 Name: AppTools for iOS15
-Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools15.json
 
 Package: com.yourcompany.wctaptotop
 Version: 0.0.1
@@ -131,16 +127,16 @@ Author: aReo
 Name: AppProtect(Rootless)
 
 Package: com.flex2areo.apptools15rootless
-Version: 1.1.6
+Version: 1.1.8
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 920
+Installed-Size: 936
 Depends: mobilesubstrate
-Filename: rootless/com.flex2areo.apptools15_1.1.6_Rootless.deb
-Size: 159792
-MD5sum: 68e0bd1546827315d96b2e22438c67bb
-SHA1: 918d90b27eb20a9038d5d4317110fe3662f54cea
-SHA256: 8f8b4767cbef05ddd6978d20fffe36a52110d232079030b597e2f828f60f01f2
+Filename: rootless/com.flex2areo.apptools15rootless_1.1.8.deb
+Size: 169090
+MD5sum: 88290b87e3c990c339fdec3664c921de
+SHA1: fbb331779f52c7b47ba5923f06a4066547ee3f56
+SHA256: ad9dfdd9193005a716a210f481051d86d9f1f2ac18b18cfa4d746ff1bc877dbd
 Section: Tweaks
 Description: AppTools for iOS15 Rootless
 Author: aReo
