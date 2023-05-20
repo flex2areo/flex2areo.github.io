@@ -75,16 +75,16 @@ Name: AppTools for iOS14
 Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools14.json
 
 Package: com.flex2areo.apptools15
-Version: 1.1.8
+Version: 1.1.9
 Architecture: iphoneos-arm
 Maintainer: aReo
 Installed-Size: 1564
 Depends: mobilesubstrate
-Filename: root/com.flex2areo.apptools15_1.1.8.deb
-Size: 371064
-MD5sum: 69f608097bb166138f1cc7af2ae543b8
-SHA1: b6b994522008c412380554c15feeb08771d64ec0
-SHA256: 93ea78a52356cee67c3a8c1addd8d9f41cc01f2c4b38d5af9e38ec7a4c9dfceb
+Filename: root/com.flex2areo.apptools15_1.1.9.deb
+Size: 370780
+MD5sum: 4c94dd392dc285d68ad675779ada76e6
+SHA1: 0e9bfb1073b04cd5e8231cb71abddc88c970ebff
+SHA256: a43552c9b8d5f5c7f40b762ca51bcffdf9c37217f665b434dd94f78d5777c242
 Section: Tweaks
 Description: AppTools for iOS15
 Author: aReo
