@@ -75,16 +75,16 @@ Name: AppTools for iOS14
 Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools14.json
 
 Package: com.flex2areo.apptools15
-Version: 1.1.9
+Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: aReo
-Installed-Size: 1564
+Installed-Size: 1780
 Depends: mobilesubstrate
-Filename: root/com.flex2areo.apptools15_1.1.9.deb
-Size: 370780
-MD5sum: 4c94dd392dc285d68ad675779ada76e6
-SHA1: 0e9bfb1073b04cd5e8231cb71abddc88c970ebff
-SHA256: a43552c9b8d5f5c7f40b762ca51bcffdf9c37217f665b434dd94f78d5777c242
+Filename: root/com.flex2areo.apptools15_1.2.0_iphoneos-arm.deb
+Size: 420530
+MD5sum: 8085af9472184442ca42dc3457c42154
+SHA1: a72b9aba51e8c2d5d697fe756652740082152900
+SHA256: 52e7782980a01e6e944d4caf0c95768d44b654d5594c156e5f8a704281bacb6f
 Section: Tweaks
 Description: AppTools for iOS15
 Author: aReo
@@ -127,16 +127,16 @@ Author: aReo
 Name: AppProtect(Rootless)
 
 Package: com.flex2areo.apptools15rootless
-Version: 1.1.8
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 936
+Installed-Size: 1056
 Depends: mobilesubstrate
-Filename: rootless/com.flex2areo.apptools15rootless_1.1.8.deb
-Size: 169090
-MD5sum: 88290b87e3c990c339fdec3664c921de
-SHA1: fbb331779f52c7b47ba5923f06a4066547ee3f56
-SHA256: ad9dfdd9193005a716a210f481051d86d9f1f2ac18b18cfa4d746ff1bc877dbd
+Filename: rootless/com.flex2areo.apptools15rootless_1.2.0_iphoneos-arm64.deb
+Size: 193402
+MD5sum: 4db7b34d5878f198c7346a176d079128
+SHA1: 51da8bd22bccb4078df94ab0990e55c320f8b829
+SHA256: b6ab01d3ca7f16a3087d474fdb8f4fa18d7cae30cc06fa44e2c6bc36d35da4cb
 Section: Tweaks
 Description: AppTools for iOS15 Rootless
 Author: aReo
