@@ -15,44 +15,36 @@ Author: aReo
 Name: AppProtect
 
 Package: com.flex2areo.apptools
-Version: 2.4.4
+Version: 2.4.5
 Architecture: iphoneos-arm
-Maintainer: aReo < >
-Depends: firmware (>=12.0), mobilesubstrate
-Filename: root/com.flex2areo.apptools.deb
-Size: 954394
-MD5sum: 921856db54ec5f52a221b015e7770c1d
-SHA1: 4a7abdd6600f23ef3b87944b6725903f40fd1588
-SHA256: ac7413e4173c0bfc2384177b795304b1cccbecf292533bcccbdeb1362d71ea2a
+Maintainer: aReo
+Installed-Size: 2076
+Depends: mobilesubstrate
+Filename: root/com.flex2areo.apptools_2.4.5_iphoneos-arm.deb
+Size: 680740
+MD5sum: 544e1cc2146a898608f115b8e13e697a
+SHA1: ceaf5d6aa9be329da0e40730e5ae1da421bfb53a
+SHA256: d0eff72a858e629cc2a613bea9b0f827d71f309b838cb4671d5e70cab0f911ad
 Section: Tweaks
-Homepage: https://shuga.co/
 Description: An icon tool.
-Author: aReo < >
-Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools.html
-Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools/icon.png
-Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools.json
+Author: aReo
 Name: AppTools
-Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools.json
 
 Package: com.flex2areo.apptools13
-Version: 2.8.7
+Version: 2.8.8
 Architecture: iphoneos-arm
-Maintainer: aReo < >
-Depends: firmware (>=13.0), mobilesubstrate
-Filename: root/com.flex2areo.apptools13.deb
-Size: 383720
-MD5sum: 7d4d0a24ceab0b5615e133e0fbfd492b
-SHA1: 3f59689a7a67b2d4938fa9417f7d8ec12f8ae9b6
-SHA256: 42cd97a13e333bfffada18ca9d0da4fef16a4dcaea41809492934b8cfc9162b1
+Maintainer: aReo
+Installed-Size: 1152
+Depends: mobilesubstrate
+Filename: root/com.flex2areo.apptools13_2.8.8_iphoneos-arm.deb
+Size: 290242
+MD5sum: 47d0dd8ffd2cb55a15036870ddec0ff3
+SHA1: bc5506de3f48baee8a108d073d557bb23e73cae0
+SHA256: 2ede8027a16366fc5158e7b95627485c312e858bee1827714aaf518ba9259fac
 Section: Tweaks
-Homepage: https://shuga.co/
 Description: An icon tool.
-Author: aReo < >
-Depiction: https://flex2areo.github.io/depiction/web/com.flex2areo.apptools13.html
-Icon: https://flex2areo.github.io/assets/com.flex2areo.apptools13/icon.png
-Moderndepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools13.json
+Author: aReo
 Name: AppTools for iOS13
-Sileodepiction: https://flex2areo.github.io/depiction/native/com.flex2areo.apptools13.json
 
 Package: com.flex2areo.apptools14
 Version: 2.0.6
