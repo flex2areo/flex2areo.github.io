@@ -115,16 +115,16 @@ Author: aReo
 Name: AppProtect(Rootless)
 
 Package: com.flex2areo.apptools15rootless
-Version: 1.2.4
+Version: 1.2.5
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Installed-Size: 1056
 Depends: mobilesubstrate
-Filename: rootless/com.flex2areo.apptools15rootless_1.2.4_iphoneos-arm64.deb
-Size: 195822
-MD5sum: 55c7e8eb221636896b481722e9bcf17e
-SHA1: 14939f5492d28b089436328e6ac2b4a7d1445892
-SHA256: bcfffdeabfb18aa5b9eec70b3142402d1ed478784dfa7a764aa331fa079b629c
+Filename: rootless/com.flex2areo.apptools15rootless_1.2.5_iphoneos-arm64.deb
+Size: 194448
+MD5sum: e712862a03d81c18f955dab464ec0ea9
+SHA1: 934cc4cd41f9822040fb6054216e98e1e349ce5e
+SHA256: 5d119c112b604d03b21a07d0c518952c46d749f4ec9f76b417fa0b832c4c54a9
 Section: Tweaks
 Description: AppTools for iOS15 Rootless
 Author: aReo
