@@ -1,0 +1,41 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Components: main
+Date: Thu, 11 Apr 2024 12:32:56 +0000
+Description: A repo just for fun..
+Label: aReo
+Origin: aReo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ fcff97f5504d3194328207542ec1034d             4654 Packages
+ 0dc34fe99125b66453636e049a7caefb             1785 Packages.bz2
+ eb8a8ee49954c35b9ef79db8a7ce46cd             1658 Packages.gz
+ f7d51c2ff6415fbed4705dca908c8381             1556 Packages.lzma
+ 0d79a593703ee0d62fba535281e971ba             1604 Packages.xz
+ 8da37f5ccbf5eba8469465a3b3926a60             1659 Packages.zst
+ f5da6d5cd445fa64ca7ddacd3ceaa2ec              199 Release
+SHA1:
+ 1a30514b200b45a29b4b6e0751ef0d5dff229647             4654 Packages
+ 8ee945049bdb20058af479f163008a312ae45ef8             1785 Packages.bz2
+ 6c0b5d3752a8b6ab2e94cd8aba78fcf7c57b1eaf             1658 Packages.gz
+ 570edd8430e3ac45a1ca775fdf49565060883821             1556 Packages.lzma
+ c877e09a8bf651b6fabc0052dea4526312df06ad             1604 Packages.xz
+ f16d19d9c4e0b56f72d496dbbd5368ee51baeeb7             1659 Packages.zst
+ 0ccb642f377b4b862a7853e1f606933b06d90cc3              199 Release
+SHA256:
+ 656a72e4dcf424658453b73fbd04a16a6203aba3ccc3fbecfa503f6371cc308f             4654 Packages
+ de6394ad482f85484d3764f1aaadc5196348c9239d633a0401aeda8a0f04182f             1785 Packages.bz2
+ c0313cb317e3da83986152f3514948434a34db9e809eeb9309581a7a363be42c             1658 Packages.gz
+ 2ed56d4b36066f0e7c8f6f7a03108a9195636eb1f9eb84dd0c02e1721064cb18             1556 Packages.lzma
+ e07440e98b50a4a19e1cfa58aa4a7c6855fd2ce2e09a86288c60706242fdb5e8             1604 Packages.xz
+ 24555ea25ffad9d5b46e469a12136986702ddea6ad59160180f03c14ef425141             1659 Packages.zst
+ d7890b5b31b4f921e164a552530952291a532ee068a3721fbc9587fe0ea98386              199 Release
+SHA512:
+ 9c9d8a6060d7efdadf5bfdf1e8bebfb30719981778ec5f2e4ed02c22c4c1d9ec06e6cb15932ead18371ae3a8a96464d1dda9d5971f3ad5174ac87d76388186d2             4654 Packages
+ a554f8cccf2b3b633498264410cff97bcb31c027991b89e0e019dd0645962896cbe7931e552e634cd07f6ef6e2c36c4a7452e5c2a9179f139d6131d8e1a8ddea             1785 Packages.bz2
+ 2c0f0949a7cde309ee6aa0dcf5293c3148a461e14de3c5f94cf57b67fa63ace838edabbe6e26ec29e022ac38547ffb4710cc208832246aebb1d6358742e78f94             1658 Packages.gz
+ 72a4ff58961a1bf8ac2afbe0a65b7b9d86b2b4f9efa0ed6e94eee9ba364dc00bf5e8f9352229b5bd2fd74dccbee685427478538d4e0f6fa30f9286399a48eb5b             1556 Packages.lzma
+ 2f66428c640c9469f127b4d5ffc73d7cfa649495a762f9c42fb2cdf6ddc0975249355359c613cf8e26ddc854625c2cf244963f488b762ece2c008f10f826077e             1604 Packages.xz
+ bd8e004ad5695d1307946bb9af569d891871b3c0eaae7910d39f106d6af30c6fe42e4f5e9f0c17d3f8ee994e3bbb297797d0ffe06515e4d61bd29fabfd2c56f1             1659 Packages.zst
+ 3ef452fea9e09df01222ab79fc332be11f6f762a9dfcf4c1ef5115a4533e80886d8fc98e6df2ff6314539239d533b73aa041f00fa0f396dead065a900c4ff627              199 Release
