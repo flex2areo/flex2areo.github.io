@@ -99,16 +99,16 @@ Name: WCTapToTop
 Sileodepiction: https://flex2areo.github.io/depiction/native/com.yourcompany.wctaptotop.json
 
 Package: com.flex2areo.appprotectrootless
-Version: 1.8.6
+Version: 1.8.8
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 992
+Installed-Size: 1008
 Depends: mobilesubstrate,preferenceloader
-Filename: rootless/com.flex2areo.appprotectrootless_1.8.6_iphoneos-arm64.deb
-Size: 153236
-MD5sum: 78303f5d78c8db1f874fc6bf57155acc
-SHA1: bc147925982dfd5f795202baf17a17622097c78b
-SHA256: e3c31913ed8f552b73ac12fda44debd2a93b2dab98af293e0cf42ab57afc325b
+Filename: rootless/com.flex2areo.appprotectrootless_1.8.8_iphoneos-arm64.deb
+Size: 155222
+MD5sum: 1bef030a904f2e9d739e24905a2c1530
+SHA1: a53f06f9a95857c1a6535197a65494b3bca7c69c
+SHA256: d29ca85426a4389b5af3a53816379b2992258771c8af1ceb6df3f938ebf44ffd
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
