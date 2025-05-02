@@ -47,16 +47,16 @@ Author: aReo
 Name: AppTools for iOS13
 
 Package: com.flex2areo.apptools14
-Version: 2.0.6
+Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: aReo
-Installed-Size: 1508
+Installed-Size: 2104
 Depends: mobilesubstrate
-Filename: root/com.flex2areo.apptools14_2.0.6_iphoneos-arm.deb
-Size: 389358
-MD5sum: 30e3e971910089de1aa388f5e98507b0
-SHA1: 7c7624004bc5b5ea3c7a5b2d02a8018a58d9fe4f
-SHA256: 819b83819dc884566700dd902f3e27a514e5129a9e293ca5e82d2372d485eac4
+Filename: root/com.flex2areo.apptools14_2.1.0_iphoneos-arm.deb
+Size: 475030
+MD5sum: 77078af58023a5d15ec0f8dc21814faa
+SHA1: cf0b471025aea80e1cf460a6d5e4c76c064b5084
+SHA256: effbe71d8693b07a558fab1ac8bbdc5c712ea099e09e523124463627ac9423e5
 Section: Tweaks
 Description: An icon tool.
 Author: aReo
