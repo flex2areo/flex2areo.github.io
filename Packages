@@ -163,16 +163,16 @@ Author: aReo
 Name: AppProtect(Roothide)
 
 Package: com.flex2areo.apptools15roothide
-Version: 1.4.1
+Version: 1.4.2
 Architecture: iphoneos-arm64e
 Maintainer: aReo
 Installed-Size: 2224
 Depends: mobilesubstrate
-Filename: roothide/com.flex2areo.apptools15roothide_1.4.1_iphoneos-arm64e.deb
-Size: 554020
-MD5sum: b666402256057a69add72b17a8848cd1
-SHA1: d326a6ecec9900945f0a283ae981759a9fe96bf3
-SHA256: 3a3af3e4bb0fda7210d7f3e0100e48a00cb4fb35d7b87748b9064f38abd3b55c
+Filename: roothide/com.flex2areo.apptools15roothide_1.4.2_iphoneos.deb
+Size: 556968
+MD5sum: 01490f95bb80950f1a1819c579841e2f
+SHA1: f6ea6ea01dd0186db1654bade58bba71883bb74c
+SHA256: 10dd208cef7c356ba1ebff4df31ad9f0840888e1094933e2549b68ced59b7699
 Section: Tweaks
 Description: AppTools for iOS15-16 Roothide
 Author: aReo
