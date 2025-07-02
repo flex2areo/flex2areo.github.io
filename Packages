@@ -115,16 +115,16 @@ Author: aReo
 Name: AppProtect(Rootless)
 
 Package: com.flex2areo.apptools15rootless
-Version: 2.1.2
+Version: 2.1.3
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Installed-Size: 1908
 Depends: mobilesubstrate
-Filename: rootless/com.flex2areo.apptools15rootless_2.1.2_iphoneos-arm64.deb
-Size: 450898
-MD5sum: 392bfe2076d71bd13ab77f941f3dc3b4
-SHA1: 336b3f6655e4966f54d6f9e6c006fc59312d6ae9
-SHA256: b7211585be83d49d7ef2a6cdffd8bd828cbb5fa613dd26f3f95625ebde385860
+Filename: rootless/com.flex2areo.apptools15rootless_2.1.3_iphoneos-arm64.deb
+Size: 454074
+MD5sum: e4bb43c347622d77c6573559cd294d35
+SHA1: 72f4755e9c3bdbf00e9e56a7b2cfe8e7959d39a2
+SHA256: bdbf1be281352f9ef249019623c6407e182630e3169179e99249db2a67f562f4
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -163,32 +163,16 @@ Author: aReo
 Name: AppProtect(Roothide)
 
 Package: com.flex2areo.apptools15roothide
-Version: 2.0.0
+Version: 2.1.3
 Architecture: iphoneos-arm64e
 Maintainer: aReo
-Installed-Size: 1796
+Installed-Size: 1856
 Depends: mobilesubstrate
-Filename: roothide/com.flex2areo.apptools15roothide_2.0.0_iphoneos-arm64e.deb
-Size: 428782
-MD5sum: bbca6047a102868d83b04ac371c1cee4
-SHA1: 120fade170ddd7bcd1938aca368994365bda63f0
-SHA256: 75b7be4995534746c660dbcc1f1e323e7e3f736a9bccf8e7246e5fb4a7b23ef5
-Section: Tweaks
-Description: AppTools for iOS15-16 Roothide
-Author: aReo
-Name: AppTools15-16(Roothide)
-
-Package: com.flex2areo.apptools15roothide
-Version: 2.1.2
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Installed-Size: 1844
-Depends: mobilesubstrate
-Filename: roothide/com.flex2areo.apptools15roothide_2.1.2_iphoneos-arm64e.deb
-Size: 442262
-MD5sum: 8d6102e5266e97a946b185a2fd496326
-SHA1: 1712d0eac1e1a1f635b2e8ba46b95c3c374269b3
-SHA256: 487ebff95153e9aa2ffbb6a31de0676a4f21e516084a3df6b27d7fdad7d402d9
+Filename: roothide/com.flex2areo.apptools15roothide_2.1.3_iphoneos-arm64e.deb
+Size: 446962
+MD5sum: bac5c21253dde118644c044ba97dc0ad
+SHA1: 8ac63c109af42e97393ac763b2274aafa82d3486
+SHA256: 1222076486bdc384b0bb011f1497293e29e5407341392d2cf4e9903fc4e8962b
 Section: Tweaks
 Description: AppTools for iOS15-16 Roothide
 Author: aReo
