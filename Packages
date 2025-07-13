@@ -114,21 +114,21 @@ Description: App 隐私保护
 Author: aReo
 Name: AppProtect(Rootless)
 
-Package: com.flex2areo.apptools15roothide
-Version: 2.1.6
-Architecture: iphoneos-arm64e
+Package: com.flex2areo.apptools15rootless
+Version: 2.1.7
+Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 1872
+Installed-Size: 1940
 Depends: mobilesubstrate
-Filename: rootless/com.flex2areo.apptools15roothide_2.1.6_iphoneos-arm64e.deb
-Size: 449262
-MD5sum: 9e4b440cc87fc0beb04dd129bf23147c
-SHA1: b35c0099733a790b1dccfc54755761b5c93eb209
-SHA256: feb27000a225a608c827fe669afc94e639f2a4b3cac7fca77e831a89ff76b855
+Filename: rootless/com.flex2areo.apptools15rootless_2.1.7_iphoneos-arm64.deb
+Size: 456876
+MD5sum: e637fb5864456941db134869ae7bc6cf
+SHA1: f33928bf64587e0478f08bd016a2aa91428362cb
+SHA256: 07d6e8ec3f55d99215fed6f60418285c19db9615694af0715b2013cf420c52e6
 Section: Tweaks
-Description: AppTools for iOS15-16 Roothide
+Description: AppTools for iOS15-16 Rootless
 Author: aReo
-Name: AppTools15-16(Roothide)
+Name: AppTools15-16(Rootless)
 
 Package: com.flex2areo.taptotop.rootless
 Version: 0.0.1
@@ -162,19 +162,19 @@ Description: App 隐私保护
 Author: aReo
 Name: AppProtect(Roothide)
 
-Package: com.flex2areo.apptools15rootless
-Version: 2.1.6
-Architecture: iphoneos-arm64
+Package: com.flex2areo.apptools15roothide
+Version: 2.1.7
+Architecture: iphoneos-arm64e
 Maintainer: aReo
-Installed-Size: 1940
+Installed-Size: 1888
 Depends: mobilesubstrate
-Filename: roothide/com.flex2areo.apptools15rootless_2.1.6_iphoneos-arm64.deb
-Size: 463910
-MD5sum: 05118188309816c5807fd1586f9efecc
-SHA1: ccdd59f3e5317b3bb92ca1d66beb0262f288e9c1
-SHA256: 24567f87309cd79ab5c27c03de274c0f93214989c103e50dbc712d344c29a7e8
+Filename: roothide/com.flex2areo.apptools15roothide_2.1.7_iphoneos-arm64e.deb
+Size: 435286
+MD5sum: 6b1cca43f582977633c95abc554b7ca2
+SHA1: f77e19eb38ae84a16f4fb8e8a96b6086e74eeb86
+SHA256: 0fbb761ecf87fee9c60defdc5b856e4b27ad952ac33f0f00f26785eb824b5d48
 Section: Tweaks
-Description: AppTools for iOS15-16 Rootless
+Description: AppTools for iOS15-16 Roothide
 Author: aReo
-Name: AppTools15-16(Rootless)
+Name: AppTools15-16(Roothide)
 
