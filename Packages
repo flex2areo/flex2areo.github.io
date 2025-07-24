@@ -115,16 +115,16 @@ Author: aReo
 Name: AppProtect(Rootless)
 
 Package: com.flex2areo.apptools15rootless
-Version: 2.2.0
+Version: 2.2.1
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 2104
+Installed-Size: 2204
 Depends: mobilesubstrate
-Filename: rootless/com.flex2areo.apptools15rootless_2.2.0_iphoneos-arm64.deb
-Size: 497678
-MD5sum: 4f5f2fb5f28608f2118440bc3fb16e29
-SHA1: 715369920df799b513e9aef51a21a879f67248e3
-SHA256: e713c65848011daa214942c74837624e313a55d940eaadb2a8d34e53f6104402
+Filename: rootless/com.flex2areo.apptools15rootless_2.2.1_iphoneos-arm64.deb
+Size: 519178
+MD5sum: db553e3fc00ebcd0fa98fd43e356e42f
+SHA1: 4d380202160f7492c2e4954ae2408dc527d4239a
+SHA256: 7fbdd52bb91baf9def0bb7c6bc3354f87984373e715f2ca6c176dc3bba126827
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -163,16 +163,16 @@ Author: aReo
 Name: AppProtect(Roothide)
 
 Package: com.flex2areo.apptools15roothide
-Version: 2.2.0
+Version: 2.2.1
 Architecture: iphoneos-arm64e
 Maintainer: aReo
-Installed-Size: 2060
+Installed-Size: 2124
 Depends: mobilesubstrate
-Filename: roothide/com.flex2areo.apptools15roothide_2.2.0_iphoneos-arm64e.deb
-Size: 479922
-MD5sum: b82c533a533cba1f626281160b5f81e9
-SHA1: 62de70499e67ef7bc4fa162a2827d225810e5118
-SHA256: b575a798b227e88b956fc5e9712ceebd09835a254e0fa2813d480c89d02c5e61
+Filename: roothide/com.flex2areo.apptools15roothide_2.2.1_iphoneos-arm64e.deb
+Size: 503088
+MD5sum: 8ef267136bbd06cbd6206a269423c53b
+SHA1: 26249ee883640c90779012a4ecd3bf57ac017df0
+SHA256: 2449fa0192914c2fa3c68fa7a3e7947d699f604fb87b2202726d16ca4944d91c
 Section: Tweaks
 Description: AppTools for iOS15-16 Roothide
 Author: aReo
