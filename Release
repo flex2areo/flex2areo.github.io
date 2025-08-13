@@ -1,4 +1,4 @@
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Codename: ios
 Components: main
 Date: Tue, 12 Aug 2025 12:24:46 +0000
