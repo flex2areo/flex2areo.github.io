@@ -99,16 +99,16 @@ Name: WCTapToTop
 Sileodepiction: https://flex2areo.github.io/depiction/native/com.yourcompany.wctaptotop.json
 
 Package: com.flex2areo.appprotectrootless
-Version: 2.1.2
+Version: 2.1.3
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Installed-Size: 2276
 Depends: mobilesubstrate,preferenceloader
-Filename: rootless/com.flex2areo.appprotectrootless_2.1.2_iphoneos-arm64.deb
-Size: 585124
-MD5sum: 60d32f1247a9d6c5bc8bb0f0a8a13abc
-SHA1: 08dfcd79dad8bbf599ec20f5f21f947c96f96f8d
-SHA256: 11c0c3a4b87f9c20b036bb62c4ad21b963446754e94fe580421e49387a51f362
+Filename: rootless/com.flex2areo.appprotectrootless_2.1.3_iphoneos-arm64.deb
+Size: 585086
+MD5sum: 86209f1c69bf7487605dd721baf1a8b1
+SHA1: cfbfcd36a03426485fba42fea747adcb9ffb9159
+SHA256: bd156698e718e559f5653e02f4f7b571813d1622a8b478306c6aa96319eb253b
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -147,16 +147,16 @@ Author: KK
 Name: TapToTop(Rootless)
 
 Package: com.flex2areo.appprotectroothide
-Version: 2.1.2
+Version: 2.1.3
 Architecture: iphoneos-arm64e
 Maintainer: aReo
 Installed-Size: 2160
 Depends: mobilesubstrate,preferenceloader
-Filename: roothide/com.flex2areo.appprotectroothide_2.1.2_iphoneos-arm64e.deb
-Size: 552606
-MD5sum: cd57b74f066948a8596328a4d00e8657
-SHA1: 8ef3d0f9ee9b4c365497a0ffccd488f459682a76
-SHA256: ca38c251bc24aa8cc8b80a798db1847fe52235a781da83f1ba2b4ca0da8d5305
+Filename: roothide/com.flex2areo.appprotectroothide_2.1.3_iphoneos-arm64e.deb
+Size: 554764
+MD5sum: 46b2d517805cb1e712f72364f7b744cd
+SHA1: 5912e3500d6bb052078991a73bd570a39952a739
+SHA256: 63c962bf64733f76ffdf37da99bab3f7b9fb7a02620688ae865765247c226e6d
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
