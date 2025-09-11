@@ -15,7 +15,7 @@ apt-ftparchive\
  -o APT::FTPArchive::Release::Suite="stable"\
  -o APT::FTPArchive::Release::Version="1.0"\
  -o APT::FTPArchive::Release::Codename="ios"\
- -o APT::FTPArchive::Release::Architectures="iphoneos-arm iphoneos-arm64"\
+ -o APT::FTPArchive::Release::Architectures="iphoneos-arm iphoneos-arm64 iphoneos-arm64e"\
  -o APT::FTPArchive::Release::Components="main"\
  -o APT::FTPArchive::Release::Description="A repo just for fun.."\
  release . > Release
