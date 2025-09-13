@@ -115,16 +115,16 @@ Author: aReo
 Name: AppProtect(Rootless)
 
 Package: com.flex2areo.appprotectrootless
-Version: 2.2.3
+Version: 2.2.3.1
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Installed-Size: 2308
 Depends: mobilesubstrate,preferenceloader
-Filename: rootless/com.flex2areo.appprotectrootless_2.2.3_iphoneos-arm64.deb
-Size: 599496
-MD5sum: 13466971b80be224c3bd356d6bec4970
-SHA1: b40672f73f3d79cd1cebd9d326ffde54d3190ccc
-SHA256: cb4c384b0d933fbfa2b0346a5c2393bf1d7c9a741e4f93425162bce652311268
+Filename: rootless/com.flex2areo.appprotectrootless_2.2.3.1_iphoneos-arm64.deb
+Size: 596282
+MD5sum: e6f1023576cc3661e4bf9e7d5e1f6422
+SHA1: 4625fe74ab3a3c6a11ef9f4b6a61d5d21ec65210
+SHA256: 6e27926b65f1ec4fbbfc1016f5ca5e746c14b16d9fc0be4e04f60753f08d583c
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -163,22 +163,6 @@ Author: KK
 Name: TapToTop(Rootless)
 
 Package: com.flex2areo.appprotectroothide
-Version: 2.1.3
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Installed-Size: 2160
-Depends: mobilesubstrate,preferenceloader
-Filename: roothide/com.flex2areo.appprotectroothide_2.1.3_iphoneos-arm64e.deb
-Size: 554764
-MD5sum: 46b2d517805cb1e712f72364f7b744cd
-SHA1: 5912e3500d6bb052078991a73bd570a39952a739
-SHA256: 63c962bf64733f76ffdf37da99bab3f7b9fb7a02620688ae865765247c226e6d
-Section: Tweaks
-Description: App 隐私保护
-Author: aReo
-Name: AppProtect(Roothide)
-
-Package: com.flex2areo.appprotectroothide
 Version: 2.2.2
 Architecture: iphoneos-arm64e
 Maintainer: aReo
@@ -205,6 +189,22 @@ Size: 567262
 MD5sum: cc0fd504b135ed95a29cb311b15f86f5
 SHA1: 15a95c7d445495a40f7a6c29146e5b10a897fc12
 SHA256: 629fedf767b3152dd1ab8722041a8eb1a05c749c3565d7c8a03c357921ced7a6
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Roothide)
+
+Package: com.flex2areo.appprotectroothide
+Version: 2.2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2180
+Depends: mobilesubstrate,preferenceloader
+Filename: roothide/com.flex2areo.appprotectroothide_2.2.3.1_iphoneos-arm64e.deb
+Size: 566582
+MD5sum: f94fa12bb60aa84a66dfc9c6dd956cd1
+SHA1: e8d1468f31b6c2fa5de541ebc04a8b3d046c1f46
+SHA256: 2fc470721bbe61ed4de898012865b137281e15ad8ae690bb32d267089d2d6136
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
