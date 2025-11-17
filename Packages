@@ -1,14 +1,14 @@
 Package: com.flex2areo.appprotect
-Version: 1.8.6
+Version: 1.8.7
 Architecture: iphoneos-arm
 Maintainer: aReo
 Installed-Size: 2028
 Depends: mobilesubstrate,preferenceloader
-Filename: root/com.flex2areo.appprotect_1.8.6_iphoneos-arm.deb
-Size: 516398
-MD5sum: 497bbb53b1fc7dfd4872f8962e3f4dbc
-SHA1: 14afae7199b693678d6eee5a2ca1ee8145b1d22d
-SHA256: 61cd9dd2a7c8b3a2ab7da6b59b96fa0903707c9b2ff585dc212862a52bec8b67
+Filename: root/com.flex2areo.appprotect_1.8.7_iphoneos-arm.deb
+Size: 558486
+MD5sum: ff07ec9234d9ec09a0346a40eab84681
+SHA1: 21d5fc8214eaa29f4166eb4ed0bfccc760a0ed6e
+SHA256: 12457c46c0ee2bc3e4d27c83c828fad6c8ba026b3f46a7de69d46dc51f465c2d
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
