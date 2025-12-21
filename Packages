@@ -106,10 +106,10 @@ Installed-Size: 2696
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotectroothide,  com.flex2areo.appprotectrootless
 Filename: rootless/com.flex2areo.appprotect_2.3.6_iphoneos-arm64.deb
-Size: 714886
-MD5sum: d4f8c633a080ba0679ce52a33b007280
-SHA1: d6117698638deb6a5346b21e95188f650521996e
-SHA256: 73fd02e17ef878455dfc3ee7565bd837192ce3c133dda79602e6a791629f4335
+Size: 714966
+MD5sum: 1b69b5ccea187b1922965f5f3049fc2d
+SHA1: 752234c073dc9631bc0e7d334fed347604295652
+SHA256: 442e4f0a77d52a62224b7c4f1f1c9a59d3cd882bc20326274ec5023ff1f66fab
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
