@@ -137,7 +137,7 @@ Architecture: iphoneos-arm64
 Maintainer: aReo
 Installed-Size: 2288
 Depends: mobilesubstrate
-Filename: rootless/com.flex2areo.apptools15rootless_1.4.5_iphoneos-..deb
+Filename: rootless/com.flex2areo.apptools15rootless_1.4.5_arm64.deb
 Size: 566276
 MD5sum: dae3d6b02312599c158c5c2193c0b113
 SHA1: 8e501507926419308fcadf43ca397b39c180ac43
@@ -218,7 +218,7 @@ Architecture: iphoneos-arm64e
 Maintainer: aReo
 Installed-Size: 2224
 Depends: mobilesubstrate
-Filename: roothide/com.flex2areo.apptools15roothide_1.4.5_iphoneos-..deb
+Filename: roothide/com.flex2areo.apptools15roothide_1.4.5_arm64e.deb
 Size: 557964
 MD5sum: d3ad82451e9c226b092d3731e0555211
 SHA1: 8b5aa20ddeb4933392482b18e6a086278aaca720
