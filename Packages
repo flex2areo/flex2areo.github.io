@@ -154,14 +154,14 @@ Maintainer: aReo
 Installed-Size: 3980
 Depends: mobilesubstrate
 Filename: rootless/com.flex2areo.apptools15rootless_2.7.6_iphoneos-arm64.deb
-Size: 1253664
-MD5sum: bf8763d18aee176aa064e8aea9818525
-SHA1: 076dfcd21751e86ba548e437cf5a3df4447ff69d
-SHA256: cda655ca164b783bef1d1da282c98437210221380198aae359917169800eccf8
+Size: 1245514
+MD5sum: 2fad715f847258630b83612d12f5a29a
+SHA1: 06e9a59dcfdf5f40c6be15b5b66e6e12425a473b
+SHA256: 71e595f4fd230cf7b6202e5c1a7f6b2e226a4cfcba34edd83bbf7e1ca5d3c13b
 Section: Tweaks
 Description: AppTools for iOS15-17 Rootless
 Author: aReo
-Name: AppTools15-16(Rootless)
+Name: AppTools15-17(Rootless)
 
 Package: com.flex2areo.taptotop.rootless
 Version: 0.0.1
@@ -235,10 +235,10 @@ Maintainer: aReo
 Installed-Size: 3852
 Depends: mobilesubstrate
 Filename: roothide/com.flex2areo.apptools15roothide_2.7.6_iphoneos-arm64e.deb
-Size: 1208962
-MD5sum: a967e63e8ec22f2251124860b2a88e3e
-SHA1: afbfd6deefd057d884a4e5c71ee937eb72f4bb39
-SHA256: ceb4047d5ead2eabab7dc2cc7c9db2bbdf05ddbcdc5dbd2d5e184c34860fda6d
+Size: 1205888
+MD5sum: bdd33af5a58940c41c4c5b992a169a20
+SHA1: b45b48569566da7e7b50c3e706ac7b213e33988f
+SHA256: b73fff312ef526f13d917a034c6b609a93ae0e73533246ba50a8fcb388146a52
 Section: Tweaks
 Description: AppTools for iOS15-17 Roothide
 Author: aReo
