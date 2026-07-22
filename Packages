@@ -115,17 +115,17 @@ Author: aReo
 Name: AppTools_Lite
 
 Package: com.flex2areo.appprotect
-Version: 2.4.3
+Version: 2.4.4
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 2792
+Installed-Size: 2808
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotectroothide,  com.flex2areo.appprotectrootless
-Filename: rootless/com.flex2areo.appprotect_2.4.3_iphoneos-arm64.deb
-Size: 743986
-MD5sum: 5972ea527beef4e6b5635bdf39e727e9
-SHA1: de7d4c1d94115c1db5f0d3b59d3012b7fa790c25
-SHA256: bd285db0f0abecc12523a3733dd4dbd23b9a9ec52a5e72b822efb9e9eed3da5f
+Filename: rootless/com.flex2areo.appprotect_2.4.4_iphoneos-arm64.deb
+Size: 742130
+MD5sum: 84724481be0148d2cb0747a8b85c4300
+SHA1: ab65f1953f78fa9a23bed1230ef2c47de69646b1
+SHA256: d67ccf31b14f1c3a3a65a6598dbb0269a2b22c0d9a49a111dd33b285566edd57
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -196,17 +196,17 @@ Author: aReo
 Name: AppTools_Lite
 
 Package: com.flex2areo.appprotect
-Version: 2.4.3
+Version: 2.4.4
 Architecture: iphoneos-arm64e
 Maintainer: aReo
 Installed-Size: 2648
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotectroothide,  com.flex2areo.appprotectrootless
-Filename: roothide/com.flex2areo.appprotect_2.4.3_iphoneos-arm64e.deb
-Size: 702586
-MD5sum: 02e8ba8820d3560478603c9ef42adca4
-SHA1: 7ebce095064a4012fa28e50d8ae27955f590db35
-SHA256: 3d41a63d492ea7cc09be9e0f4bd39d8062d6c0c2bd10b6d6a3fe4b4fcb58eeaf
+Filename: roothide/com.flex2areo.appprotect_2.4.4_iphoneos-arm64e.deb
+Size: 707304
+MD5sum: 5b1f704ef644244b2812b00ef56b4f6f
+SHA1: d7c21a5d2ef66498fd55f5e69d6b7703fbd7250b
+SHA256: 2e8ae7bb10c5a2ed95901e52b6c970f6ecdfb244fb87c043a29d60262889549a
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
